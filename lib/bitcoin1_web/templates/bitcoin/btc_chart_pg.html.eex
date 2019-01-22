@@ -1,0 +1,3 @@
+<h2>Bitcoins Transacted</h2>
+<canvas id = "btcChart" width = "300" height = "200"></canvas>
+<span id = "btcData" data-blockheight = "<%= @blockheight %>" data-blockbtc = "<%= @blockbtc %>" > </span>

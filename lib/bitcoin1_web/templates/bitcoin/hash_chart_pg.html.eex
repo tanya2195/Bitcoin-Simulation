@@ -1,0 +1,3 @@
+<h2>#Hashes computed for each block</h2>
+<canvas id = "hashChart" width = "300" height = "200"></canvas>
+<span id = "hashData" data-blockheight = "<%= @blockheight %>" data-blockhash = "<%= @blockhash %>" > </span>

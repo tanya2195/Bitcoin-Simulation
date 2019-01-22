@@ -1,0 +1,3 @@
+<h2>No. of transactions per block</h2>
+<canvas id = "txChart" width = "300" height = "200"></canvas>
+<span id = "txData" data-blockheight = "<%= @blockheight %>" data-blocktx = "<%= @blocktx %>" > </span>
